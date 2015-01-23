@@ -1,7 +1,5 @@
-
-
-###############################################################################################################################################################
-
+"""
+Credit: Chirag
 
 This Code creates an HTML file displaying a world map with Kickstarter projects FROM A PARTICULAR YEAR mapped onto it using the FOLIUM api for python. 
 
@@ -29,7 +27,6 @@ Features:
 3) Select Year of Mapping
 4) Error_Log maintained that lists keys skipped (Problem_Nodes), number of keys skipped in total (from all years), number of points plotted on the map, total number of projects
    that have the year and category requested
-###############################################################################################################################################################
 
 
 """
